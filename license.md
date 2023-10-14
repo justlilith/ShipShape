@@ -14,7 +14,7 @@ ShipShape is licensed for noncommercial\* use under these terms:
 
 - This license must accompany ShipShape if it's shared; an easy way to share this license is to link to this ShipShape GitHub repo (yes I'm aware of the circular loop and I find it quite twee)
 
-\* Please do not try to profit from a game that elevates group expression over personal gain. But, if you do sell something based on ShipShape, there is a section about that [called Commercial Use](#commercial-use).
+\* Please do not try to profit from a game that elevates group expression over personal gain. But, if you do sell something based on ShipShape, there is a section about that [called Commercial Use](#commercial-use-and-whatnot).
 
 ### Commercial use and whatnot
 
